@@ -7,4 +7,8 @@
 
 ![star_favourite_21830](https://user-images.githubusercontent.com/92594363/140395389-17512f5c-06b8-497c-8cc9-ef199ae1a90c.png)  Испытания (более сложные задания со *)
 
+## Содержание курса <a name="paragraph1"></a>
+ 
+ ### 1. <a href="https://github.com/MaryKurinova/Hexlet-Tasks/tree/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20JS">Введение в JavaScript</a>  <a name="subparagraph1"></a>
 
+Первые if-elses, рекурсии, циклы for и while и другие работают с простейшими типами данных: строками и числами. Правила экспорта и импорта, чистые функции, замыкания.
