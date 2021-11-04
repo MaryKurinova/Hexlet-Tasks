@@ -1,0 +1,26 @@
+Реализуйте и экспортируйте по умолчанию функцию, которая переворачивает цифры в переданном числе и возвращает новое число.
+
+// @ts-check
+// BEGIN (write your solution here)
+
+const reverseInt = (n) => {
+  if (n < 0) {
+    return -reverse(n, 1);
+  }
+  else {
+    return reverse(n, 0);
+  }
+}
+
+const reverse = (num, n) => {
+  let str = String(num);
+  let l = str.length - 1;
+  let acc = '';
+
+  for (let i = l; i >= n; i--) {
+    acc += str[i];
+  }
+  return Number(acc);
+}
+
+export default reverseInt;
