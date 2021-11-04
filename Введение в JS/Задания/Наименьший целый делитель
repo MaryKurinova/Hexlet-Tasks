@@ -1,0 +1,22 @@
+Напишите функцию smallestDivisor(). Она должна находить наименьший целый делитель числа. Поведение у функции такое же, как в предыдущем уроке, но реализация (код функции) должна быть другой. 
+
+const smallestDivisor = (num) => {
+  let divisor = 2;
+
+  if (num < 1) {
+    return NaN;
+  }
+
+  if (num === 1) {
+    return num;
+  }
+
+  while (num % divisor) {
+    divisor += 1;
+  }
+  return divisor;
+};
+
+// END
+
+export default smallestDivisor;
