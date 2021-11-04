@@ -17,3 +17,5 @@
 
 ![star_favourite_21830](https://user-images.githubusercontent.com/92594363/140404930-a5835dce-2c16-4165-9e25-5e135ee56883.png)<a href="https://github.com/MaryKurinova/Hexlet-Tasks/tree/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20JS/%D0%98%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D1%8F"> Испытания</a>
 
+
+ ### 2. <a href="https://github.com/MaryKurinova/Hexlet-Tasks/tree/main/Arrays">Массивы</a>  <a name="subparagraph1"></a>
