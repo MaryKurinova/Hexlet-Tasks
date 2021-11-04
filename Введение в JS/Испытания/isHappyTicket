@@ -1,0 +1,16 @@
+const sum = (str, start, finish) => {
+    let res = 0;
+    for (let i = start; i < finish; i += 1) {
+        res += +str[i];
+    }
+    return res;
+};
+
+const isHappyTicket = (str) => {
+    const length = str.length;
+    const res1 = sum(str, 0, length / 2);
+    const res2 = sum(str, length / 2, length);
+    return (res1 === res2);
+};
+
+export default isHappyTicket;
