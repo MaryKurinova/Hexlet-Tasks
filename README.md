@@ -6,7 +6,7 @@ For convenience, all tasks are divided into modules and consist of:
 
 ![1490127538-school-object-study-student12_82093](https://user-images.githubusercontent.com/92594363/140395393-48fb6377-2c9e-44cf-9fd4-f9142e0f184f.png) Tasks
 
-![star_favourite_21830](https://user-images.githubusercontent.com/92594363/140395389-17512f5c-06b8-497c-8cc9-ef199ae1a90c.png)  Challenges (более сложные задания со *)
+![star_favourite_21830](https://user-images.githubusercontent.com/92594363/140395389-17512f5c-06b8-497c-8cc9-ef199ae1a90c.png)  Challenges (more interesting tasks*)
 
 ## Course contents <a name="paragraph1"></a>
  
